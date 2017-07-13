@@ -1,2 +1,2 @@
 # undy
-Undy is a Slack export browser and analysis tool.
+Undy lets you browse and analyze your Slack export archives.
